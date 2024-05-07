@@ -1,4 +1,4 @@
-# Advanced Node.js Automation Script
+# OpenAI Arg Bot
 
 This Node.js script demonstrates an advanced automation task that involves web scraping, PDF handling, social media interactions through Twitter, and leveraging AI with OpenAI's API. Below are the components of the script and their functionalities.
 
